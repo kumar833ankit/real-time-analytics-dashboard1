@@ -1,6 +1,6 @@
 # Real-Time Crypto Analytics Dashboard
 
-**SDE-2 Challenge #3** - Live Analytics Dashboard
+** SDE-2 Challenge ** - Live Analytics Dashboard @Saleshandy
 
 ## Features
 - Real-time cryptocurrency prices via WebSocket

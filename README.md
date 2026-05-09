@@ -4,9 +4,10 @@
 
 ## Features
 - Real-time cryptocurrency prices via WebSocket
-- Live updating charts
-- Searchable & sortable table
-- Modern dark UI with smooth animations
+- Live update realtime charts
+- Searching $ sorting in table
+- Modern UI with smooth animations
+- Pagination
 
 ## Tech Stack
 - React + TypeScript + Vite
